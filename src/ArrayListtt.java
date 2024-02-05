@@ -33,3 +33,4 @@ public class ArrayListtt {
 
 }
 // Arraylist calls its toString() internally , we do not need to write it
+//1250
