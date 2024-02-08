@@ -1,9 +1,10 @@
 import java.util.ArrayList;
+import java.util.List;
 
 public class ArrayListtt {
     public static void main(String[] args) {
 
-        ArrayList<Integer> arr = new ArrayList<>(5);
+        List<Integer> arr = new ArrayList<>(5);
 
         arr.add(1123);
         arr.add(32);
